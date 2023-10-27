@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to [Short Origin Ltd. Co.](https://github.com/shortorigin/) 👋
 
-<!--
+## 🚀 Our Projects
 
-**Here are some ideas to get you started:**
+## 🙌 How to Contribute
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We welcome contributions from anyone who shares our vision and values. You can find more details on how to contribute in our [CONTRIBUTING.md](https://github.com/new) file.
+
+## 💬 Contact Us
+
+If you have any questions, suggestions, or feedback, feel free to reach out to us through any of the following channels:
+
+## 📝 License
+
+Our company's default licensing is GNU AFFERO GENERAL PUBLIC LICENSE, Version 3. More permissive licensing may be found within individual repositories. 
